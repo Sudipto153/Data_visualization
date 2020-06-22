@@ -1,1 +1,2 @@
-# Data_visualization
+# Data visualization
+The code creates a visual which represents the change of the inflation rate alongwith GDP growth rate of Bangladesh over the past forty years. The data was collected from wikipedia & world bank websites. The datasets has been cleaned and merged together and used for plotting. The top subplot states the change of inflation rate and GDP growth rate over the whole period whereas annual change of the inflation and GDP growth rate can be observed from the lower subplot. It is an interactive visual. Hence, clicking on any point on any of the subplots is going to give all the data (i.e. inflation rate, GDP growth rate, annual change of inflation and GDP growth rate) of the year near to that point.
